@@ -17,7 +17,7 @@ The goal of this project is to have a clean Travis CI build, with specs:
 
 More complex builds:
 
- * Use C++14: [appveyor_gcc_cpp14](https://www.github.com/richelbilderbeek/appveyor_gcc_cpp14)
+ * Use C++14: [![Build status](https://ci.appveyor.com/api/projects/status/r0c3wnwin26yvfto/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/appveyor-gcc-cpp14/branch/master) [appveyor_gcc_cpp14](https://www.github.com/richelbilderbeek/appveyor_gcc_cpp14)
 
 Equally complex builds:
 
